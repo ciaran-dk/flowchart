@@ -206,6 +206,33 @@
         <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-49" value="Tilstand Fys-kjem" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="595" y="460" width="105" height="370" as="geometry" />
         </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-50" value="Eutrofiering" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="900" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-51" value="&lt;div&gt;ISI_MID&amp;nbsp;&lt;/div&gt;&lt;div&gt;Indikatorartsindeks (ISI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="850" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_GRqJ1ZzVfy5zHWJSPP-51" target="y_GRqJ1ZzVfy5zHWJSPP-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-53" value="&lt;div&gt;MBH_MID&amp;nbsp;&lt;/div&gt;&lt;div&gt;Shannon-Wiener indeks (H&#39;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="900" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_GRqJ1ZzVfy5zHWJSPP-53" target="y_GRqJ1ZzVfy5zHWJSPP-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-55" value="+ flere..." style="whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="29" y="950" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="y_GRqJ1ZzVfy5zHWJSPP-55" target="y_GRqJ1ZzVfy5zHWJSPP-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
