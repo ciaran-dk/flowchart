@@ -102,7 +102,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-21" value="Kvalitetselement" style="swimlane;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="30" width="110" height="370" as="geometry" />
+          <mxGeometry x="430" y="30" width="165" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-62" value="OOAO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3" vertex="1" parent="y_GRqJ1ZzVfy5zHWJSPP-21">
+          <mxGeometry x="105" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-22" value="Tilstand biologisk" style="swimlane;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="595" y="30" width="105" height="370" as="geometry" />
@@ -235,11 +238,26 @@
         <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-49" value="Tilstand Fys-kjem" style="swimlane;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="595" y="460" width="105" height="510" as="geometry" />
         </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-61" value="OOAO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3" vertex="1" parent="y_GRqJ1ZzVfy5zHWJSPP-49">
+          <mxGeometry x="-60" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1" source="y_GRqJ1ZzVfy5zHWJSPP-50" target="y_GRqJ1ZzVfy5zHWJSPP-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="690" as="targetPoint" />
             <mxPoint x="450" y="970" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-58" value="Middel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-59" value="Middel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-60" value="Middel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="210" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y_GRqJ1ZzVfy5zHWJSPP-63" value="OOAO = &quot;One out all out&quot; el. &quot;værste styrer&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="370" y="1000" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
